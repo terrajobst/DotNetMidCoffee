@@ -2,8 +2,8 @@
 
 Member    | Last Order Date
 ----------|-----------------
-Immo      | 2015-06
-Krzysztof |
+Immo      | 
+Krzysztof | 2015-06
 Mark      |
 Pat       |
 Russell   |
