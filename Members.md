@@ -2,8 +2,8 @@
 
 Member    | Last Order Date
 ----------|-----------------
-Immo      | 2015-06
-Krzysztof |
+Immo      | 2016-01
+Krzysztof | 2016-02 (counts twice, as he serviced the machine)
 Mark      | 2015-08
 Russell   |
 Sedar     |
