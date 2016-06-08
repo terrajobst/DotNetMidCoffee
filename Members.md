@@ -13,5 +13,4 @@ Member    | Last Order Date | Left
 ----------|-----------------|-----
 Mark      | 2015-08         | 2016-06
 Sedar     |                 | 2016-06
-
-* Pat
+Pat       |                 |
