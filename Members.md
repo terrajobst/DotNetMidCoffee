@@ -2,7 +2,7 @@
 
 Name      | Last Order Date
 ----------|-----------------
-Bertrand  |
+Bertrand  | 2016-08
 Immo      | 2016-01
 Krzysztof | 2016-02 (counts twice, as he serviced the machine)
 Russell   | 2016-06
